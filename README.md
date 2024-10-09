@@ -32,21 +32,6 @@ Welcome to the Bank Management System, a Python-based command-line application d
 ### Prerequisites
 
 Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-
-### Installation
-1. Install MySQL Connector:
-    ```bash
-    pip install mysql-connector-python
-    ```
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/mohitprajapat2001/Python-Bank-Project
-    ```
-3. Navigate to the project directory:
-    ```bash
-    cd Python-Bank-Project
-    ```
-
 ### Usage
 1. Run the Database File Once to Create Required Tables:
     ```bash
@@ -90,8 +75,5 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 - Utilizes date and time functions to keep track of transactions and account activities.
 
-## Contributing
-
-We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your ch
 
 Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
